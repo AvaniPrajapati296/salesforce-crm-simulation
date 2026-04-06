@@ -1,0 +1,7 @@
+Customer_ID,Customer_Name,Industry,Opportunity_Value,Stage,Region
+C001,ABC Corp,Retail,5000,Lead,Canada
+C002,XYZ Ltd,Finance,12000,Qualified,USA
+C003,TechSoft,IT,20000,Closed,Canada
+C004,GreenFarm,Agriculture,8000,Lead,India
+C005,HealthPlus,Healthcare,15000,Closed,UK
+C006,BuildPro,Construction,9000,Qualified,Canada
